@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="kocok">Kocok</string>
+    <string name="tex_view">Tex view</string>
+    <string name="text_view">text view</string>
+    <string name="todo">TODO</string>
+</resources>
